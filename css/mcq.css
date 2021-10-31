@@ -31,7 +31,7 @@ main{
     justify-content: center;
     align-items: center;
     background-color: black;
-    background: url('../img/purpl-bg.jpg');
+    background: url(https://raw.githubusercontent.com/ybtheflash/el_database_data/main/img/purpl-bg.jpg);
     background-color : black;
     background-repeat: no-repeat;
     background-size: cover;
