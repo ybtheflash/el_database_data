@@ -1,21 +1,4 @@
 {
-  "lastUpdated": "2024-12-25T13:45:26.909Z",
-  "videos": {
-    "UCExYsiiDrrCoE1LmFmKFj-A": {
-      "latestVideo": {
-        "videoId": "test_video_1",
-        "title": "Test Video EL",
-        "views": "1K",
-        "duration": "10:00"
-      }
-    },
-    "UCjsgJeVw8QEWbtT_kDqsJFg": {
-      "latestVideo": {
-        "videoId": "test_video_2",
-        "title": "Test Video Literaree",
-        "views": "2K",
-        "duration": "15:00"
-      }
-    }
-  }
+  "lastUpdated": "",
+  "videos": {}
 }
