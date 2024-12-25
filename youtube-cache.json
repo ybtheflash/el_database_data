@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-12-25T14:10:52.214Z",
+  "lastUpdated": "2024-12-25T14:12:35.986Z",
   "videos": {
     "UCjsgJeVw8QEWbtT_kDqsJFg": {
       "latestVideo": {
@@ -17,6 +17,13 @@
         "views": "4.9K",
         "duration": "13:25",
         "isLatest": true
+      },
+      "featuredVideo": {
+        "videoId": "L7Ni1FTQ_OM",
+        "title": "Haunted Houses | Henry Wadsworth Longfellow | English Learners",
+        "views": "5.1K",
+        "duration": "17:25",
+        "isFeatured": true
       }
     }
   }
