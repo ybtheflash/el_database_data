@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2024-12-25T13:41:53.676Z",
+  "lastUpdated": "2024-12-25T13:42:06.527Z",
   "videos": {
+    "UCExYsiiDrrCoE1LmFmKFj-A": {
+      "latestVideo": {
+        "videoId": "test_video_1",
+        "title": "Test Video EL",
+        "views": "1K",
+        "duration": "10:00"
+      }
+    },
     "UCjsgJeVw8QEWbtT_kDqsJFg": {
       "latestVideo": {
-        "videoId": "CTMUHhQLYEk",
-        "title": "MCQs on Metaphysical Poetry | Important Questions | Literaree",
-        "views": "1.8K",
-        "duration": "2:37",
-        "isLatest": true
+        "videoId": "test_video_2",
+        "title": "Test Video Literaree",
+        "views": "2K",
+        "duration": "15:00"
       }
     }
   }
